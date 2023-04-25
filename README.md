@@ -5,4 +5,5 @@ member 2:https://trailblazer.me/id/kavim47 member 3:https://trailblazer.me/id/gk
 member 4: https://trailblazer.me/id/pavi14 video link:
 https://drive.google.com/file/d/1-ZNYZg_ehsrl9eiklRhu9tYtFvsHyU5g/view?usp=drivesdk
  retail management application using salesforce 
-template link: https://in.docworkspace.com/d/sAD2u1X-AwL2QAcXO3NOwpxQ
+template link: https://in.docworkspace.com/d/sAHm-AWCAwL2QAZ-d6dWwpxQ
+[File]HARIPRAKASH  (1).pdf 
